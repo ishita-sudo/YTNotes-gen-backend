@@ -1,7 +1,7 @@
 # 🆓Free YouTube video to Notes Generator
 ![alt text](<assets/Screenshot 2025-07-25 202517.png>)
 ## Live Demo 🌐
-(https://ytnotes.synergize.co/?i=1)
+https://ytnotes.synergize.co/?
 
 ## Tech stack used:
 ## Frontend
